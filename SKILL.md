@@ -2,11 +2,11 @@
 name: cad-clash-check
 slug: cad-clash-check
 displayName: 跨专业碰撞校对·按轴定位
-version: 0.3.3
+version: 0.3.4
 platforms: [macos, windows, linux]
 author: lis
 license: CC-BY-NC-SA-4.0
-description: 消费 DWG/DXF 或 cad-file-reader 识图产物，输出跨专业碰撞候选和属性冲突清单；2D 图面提示，须人工复核。
+description: "碰撞与属性冲突候选；不替代复核。触发词：碰撞候选、管线综合。"
 ---
 
 # cad-clash-check · 跨专业碰撞校对
